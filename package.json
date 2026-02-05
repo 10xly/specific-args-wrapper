@@ -1,0 +1,35 @@
+{
+  "name": "specific-args-wrapper",
+  "version": "1.0.0",
+  "description": "Create a wrapper function that always called the specified function with specific arguments.",
+  "main": "index.js",
+  "author": "10x'ly Made XYZ",
+  "keywords": [
+    "args wrapper",
+    "10xly",
+    "made",
+    "awesomeness"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/specific-args-wrapper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/10xly/specific-args-wrapper/issues"
+  },
+  "homepage": "https://github.com/10xly/specific-args-wrapper#readme",
+  "license": "EGPSL10X-1.0",
+  "scripts": {
+    "test": "echo notestsspecified"
+  },
+  "dependencies": {
+    "function.apply-x": "^1.0.0",
+    "is-empty-array": "^1.1.0",
+    "noargs-wrapper": "^1.1.0",
+    "none": "1.0.0",
+    "return-arguments": "^1.0.2",
+    "uncurry-x": "^1.0.1",
+    "use-unused-vars": "1.0.1",
+    "wrappy": "^1.0.2"
+  }
+}
