@@ -63,3 +63,4 @@ stf/
 
 # installer never finished
 [0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F]-*-*-*-*.vbs
+package-lock.json
